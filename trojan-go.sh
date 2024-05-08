@@ -1,3 +1,4 @@
+# Trojango auto update
 #!/bin/bash
 set -euo pipefail
 
@@ -85,6 +86,6 @@ EOF
 fi
 
 echo Deleting temp directory $TMPDIR...
-#rm -rf "$TMPDIR"
+# rm -rf "$TMPDIR"
 
 echo Done!
