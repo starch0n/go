@@ -1,2 +1,2 @@
 # go
-trojan
+trojan-go
